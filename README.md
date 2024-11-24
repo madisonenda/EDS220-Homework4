@@ -26,8 +26,10 @@ Please note that this file will contain the perimeters for many historic fires a
 
 ## References:
 #### California Wildfire Data:
-CAL FIRE, egis.CALFIRE. "California Fire Perimeters (all)", *State of California Catalog*. (2024). https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436. date accessed: [11/23/2024]
+CAL FIRE, egis.CALFIRE.(2024). "California Fire Perimeters (all)", *State of California Catalog*.
+https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436. date accessed: [11/23/2024]
 
 #### Landsat 8 Data:
-NASA, USGS, Microsoft. "Landsat Collection 2 Level-2", *Planetary Computer*. (2024). 
+NASA, USGS, Microsoft.(2024). "Landsat Collection 2 Level-2", *Planetary Computer*. 
 https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2. date accessed: [11/23/2024] 
+
