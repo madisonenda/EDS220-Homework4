@@ -33,3 +33,7 @@ https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436. date acce
 NASA, USGS, Microsoft.(2024). "Landsat Collection 2 Level-2", *Planetary Computer*. 
 https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2. date accessed: [11/23/2024] 
 
+#### MEDS Program at UCSB: EDS 220 Working With Environmental Datasets:
+Galaz Garcia, C. (2024). Assignment #4, EDS 220 Working With Environmental Datasets, Masters of Environmental Data Science. University of California, Santa Barbara. 
+https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4.html. date accessed: [12/04/2024] 
+
